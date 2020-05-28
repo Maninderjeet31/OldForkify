@@ -16,4 +16,10 @@ FORKIFY - A recipe searching application
  
  5. Finally the user can keep everything or remove 1/+ ingredient and once they are done, they can finally checkout.
  
+ Screenshots:
+ 
+ ![Test Image 1](https://github.com/Maninderjeet31/Forkify/blob/master/pics/First.png)
+ 
+ 
+ 
  Reference : https://github.com/jonasschmedtmann/complete-javascript-course
